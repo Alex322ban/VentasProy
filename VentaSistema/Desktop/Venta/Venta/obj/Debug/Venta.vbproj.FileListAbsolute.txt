@@ -1,1 +1,11 @@
 C:\Users\fchoquecota\Desktop\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.exe.config
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.exe.config
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.pdb
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.vbprojResolveAssemblyReference.cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.Resources.resources
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.vbproj.GenerateResource.Cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.pdb

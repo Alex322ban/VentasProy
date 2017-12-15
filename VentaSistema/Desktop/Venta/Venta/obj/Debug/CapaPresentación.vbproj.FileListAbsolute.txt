@@ -1,0 +1,14 @@
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\CapaPresentación.vbprojResolveAssemblyReference.cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.Login.resources
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.Resources.resources
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\CapaPresentación.vbproj.GenerateResource.Cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\obj\Debug\Venta.pdb
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.exe.config
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.pdb
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\Venta.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\CapaDatos.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\CapaDatos.pdb
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Venta\bin\Debug\CapaDatos.xml

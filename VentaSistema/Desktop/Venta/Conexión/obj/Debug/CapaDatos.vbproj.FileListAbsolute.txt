@@ -1,0 +1,10 @@
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.Resources.resources
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\bin\Debug\CapaDatos.exe.config
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\bin\Debug\CapaDatos.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\bin\Debug\CapaDatos.pdb
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\bin\Debug\CapaDatos.xml
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.exe
+C:\Users\fchoquecota\Documents\GitHub\VentasProy\VentaSistema\Desktop\Venta\Conexión\obj\Debug\CapaDatos.pdb

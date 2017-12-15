@@ -102,3 +102,12 @@ CREATE TABLE DETALLE_VENTA (
 )
 INSERT INTO DETALLE_VENTA VALUES(70001,70001,11001,4,25.50,'5%')
 
+CREATE PROC sesion
+	@login varchar(20),
+	@pass varchar(20)
+	as
+	begin
+	SELECT * 
+	FROM USUARIO WHERE dni=@login and pwd=@pass
+end
+
